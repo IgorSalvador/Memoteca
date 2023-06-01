@@ -4,11 +4,11 @@
   <p class="autoria"><strong>{{ pensamento.autoria }}</strong></p>
   <div class="acoes">
     <button class="botao-editar">
-      <img src="../../../../assets/icone-editar.png" alt="Icone de editar">
+      <img src="../../../../assets/icone-editar.png" routerLink="/pensamentos/editarPensamento/{{ pensamento.id }}" alt="Icone de editar">
     </button>
 
     <button class="botao-excluir">
-      <img src="../../../../assets/icone-excluir.png" alt="Icone de excluir">
+      <img src="../../../../assets/icone-excluir.png" routerLink="/pensamentos/excluirPensamento/{{ pensamento.id }}" alt="Icone de excluir">
     </button>
   </div>
 </div>
