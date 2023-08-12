@@ -4,25 +4,50 @@
       "id": 2,
       "conteudo": "Estou gostando de estudar angular e me prepar para o Lysi compras :)",
       "autoria": "Igor",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Preciso estudar API's em .NET Framework e .NET Core",
       "autoria": "Igor",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "conteudo": "O Angular é um framework muito completo para criação de aplicações SPA",
       "autoria": "Salvador",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 5
     },
     {
       "conteudo": "Estou gostando do Angular",
       "autoria": "Igor Salvador",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 6
+    },
+    {
+      "conteudo": "Teste Pensamento 1",
+      "autoria": "Teste",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Sem ideia para escrever",
+      "autoria": "Mark Sans",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "AAAAAAAAAAAAAA",
+      "autoria": "AAAAAAA",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 9
     }
   ]
 }
